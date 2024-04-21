@@ -1,6 +1,7 @@
 'use strict';
 
 var gulp = require('gulp');
+console.log('mine');
 
 /** 
  * Compile TypeScript to JS
